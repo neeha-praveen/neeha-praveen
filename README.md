@@ -10,6 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neeha-praveen&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-![](https://komarev.com/ghpvc/?username=neeha-praveen)
+![](https://komarev.com/ghpvc/?username=neeha-praveen&color=e6005c)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
